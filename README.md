@@ -1,4 +1,4 @@
-# alarem
+# ALAREM
 
 A new Flutter project.
 
